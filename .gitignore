@@ -3,4 +3,4 @@
 #uniignore
 !*.py
 !.gitignore
-!README.MD
+!README.md
